@@ -1,0 +1,16 @@
+{
+  "name": "conceitos-solid",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "BernardoSertorio",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "ts-loader": "^8.0.14",
+    "typescript": "^4.1.3",
+    "webpack": "^5.12.1",
+    "webpack-cli": "^4.3.1"
+  }
+}
