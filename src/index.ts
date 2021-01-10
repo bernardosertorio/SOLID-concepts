@@ -1,4 +1,4 @@
-import AbstractShareButton from "./AbstractLinkShareButton";
+import AbstractShareButton from "./AbstractShareButton";
 import ShareButtonTwitter from "./ShareButtonTwitter";
 import ShareButtonFacebook from "./ShareButtonFacebook";
 import ShareButtonLinkedIn from "./ShareButtonLinkedIn";
